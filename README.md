@@ -1,4 +1,4 @@
-# Flower-Detection
+# Flower-Detection using OpenCV
 Flower Detection model to detect flower types namely Rose, Tulip, Daisy, Dandelion, SunFlower.
 This model includes concepts from Computer Vision and CNN.
 
